@@ -1,6 +1,6 @@
 # Deck of Cards
 
-<img src="https://github.com/Win-C/deck-of-cards/blob/main/deck-of-cards.gif")
+<img src="https://github.com/Win-C/deck-of-cards/blob/main/deck-of-cards.gif"/>
 
 Exercise to practice working with callbacks, promises, and async/await as well as CSS formatting and DOM manipulation with vanilla JavaScript.
 
